@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jacob.
-#### I am Game Designer and Unity Game Developer.
+#### I am Game Producer and Unity Game Developer.
 I love making games and bringing the best out of people!
 
 Skills: C# / UNITY 3D / TEAM LEADING / CREATIVE THINKING
